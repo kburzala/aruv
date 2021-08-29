@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DIRECTORY name="girl_in_park" files="15">
+  <VIDEO name="20210629_183144" width="1920" height="1080" fps="30" length="00:00:10" size="20MB">
+    <TIME timestamp="00:00:00" detected_objects="0">
+      <OBJECT name="person" quality="0.75" x_center="0.43" y_center="0.53" width="0.10" height="0.33" />
+      <SHARPNESS edges="2116.99" laplacian="42.55" sobel_x="139924" sobel_y="284465" />
+      <SATURATION red="147" green="151" blue="146" />
+    </TIME>
+    <TIME timestamp="00:00:01" detected_objects="0">
+      <OBJECT name="person" quality="0.83" x_center="0.43" y_center="0.51" width="0.10" height="0.34" />
+      <SHARPNESS edges="2551.14" laplacian="61.30" sobel_x="146123" sobel_y="280821" />
+      <SATURATION red="141" green="145" blue="140" />
+    </TIME>
+    <TIME timestamp="00:00:02" detected_objects="0">
+      <OBJECT name="person" quality="0.80" x_center="0.46" y_center="0.43" width="0.11" height="0.35" />
+      <OBJECT name="person" quality="0.28" x_center="0.67" y_center="0.60" width="0.01" height="0.02" />
+      <SHARPNESS edges="2896.05" laplacian="62.02" sobel_x="145284" sobel_y="289206" />
+      <SATURATION red="131" green="135" blue="129" />
+    </TIME>
+    <TIME timestamp="00:00:03" detected_objects="0">
+      <OBJECT name="person" quality="0.42" x_center="0.49" y_center="0.42" width="0.11" height="0.38" />
+      <OBJECT name="person" quality="0.36" x_center="0.62" y_center="0.59" width="0.01" height="0.03" />
+      <OBJECT name="person" quality="0.35" x_center="0.69" y_center="0.59" width="0.01" height="0.03" />
+      <OBJECT name="person" quality="0.29" x_center="0.84" y_center="0.58" width="0.01" height="0.04" />
+      <SHARPNESS edges="2878.10" laplacian="53.42" sobel_x="147588" sobel_y="282626" />
+      <SATURATION red="129" green="133" blue="128" />
+    </TIME>
+    <TIME timestamp="00:00:04" detected_objects="0">
+      <OBJECT name="person" quality="0.47" x_center="0.85" y_center="0.57" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.44" x_center="0.68" y_center="0.58" width="0.01" height="0.03" />
+      <OBJECT name="person" quality="0.43" x_center="0.63" y_center="0.59" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.41" x_center="0.49" y_center="0.42" width="0.12" height="0.40" />
+      <SHARPNESS edges="2927.04" laplacian="56.71" sobel_x="145627" sobel_y="294264" />
+      <SATURATION red="129" green="133" blue="127" />
+    </TIME>
+    <TIME timestamp="00:00:05" detected_objects="0">
+      <OBJECT name="person" quality="0.59" x_center="0.51" y_center="0.41" width="0.13" height="0.41" />
+      <OBJECT name="person" quality="0.48" x_center="0.66" y_center="0.59" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.40" x_center="0.69" y_center="0.58" width="0.01" height="0.03" />
+      <OBJECT name="person" quality="0.39" x_center="0.88" y_center="0.57" width="0.01" height="0.04" />
+      <OBJECT name="clock" quality="0.33" x_center="0.71" y_center="0.20" width="0.02" height="0.03" />
+      <OBJECT name="person" quality="0.31" x_center="0.73" y_center="0.59" width="0.01" height="0.02" />
+      <SHARPNESS edges="2936.81" laplacian="54.88" sobel_x="147667" sobel_y="301680" />
+      <SATURATION red="128" green="132" blue="126" />
+    </TIME>
+    <TIME timestamp="00:00:06" detected_objects="0">
+      <OBJECT name="person" quality="0.75" x_center="0.54" y_center="0.40" width="0.13" height="0.43" />
+      <OBJECT name="person" quality="0.45" x_center="0.69" y_center="0.57" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.36" x_center="0.30" y_center="0.59" width="0.01" height="0.03" />
+      <OBJECT name="person" quality="0.33" x_center="0.28" y_center="0.60" width="0.01" height="0.03" />
+      <SHARPNESS edges="2953.13" laplacian="58.34" sobel_x="152448" sobel_y="298742" />
+      <SATURATION red="127" green="131" blue="124" />
+    </TIME>
+    <TIME timestamp="00:00:07" detected_objects="0">
+      <OBJECT name="person" quality="0.69" x_center="0.30" y_center="0.61" width="0.01" height="0.05" />
+      <OBJECT name="person" quality="0.60" x_center="0.69" y_center="0.58" width="0.01" height="0.05" />
+      <OBJECT name="person" quality="0.50" x_center="0.54" y_center="0.41" width="0.14" height="0.45" />
+      <OBJECT name="person" quality="0.38" x_center="0.27" y_center="0.60" width="0.01" height="0.03" />
+      <OBJECT name="person" quality="0.29" x_center="0.75" y_center="0.57" width="0.01" height="0.02" />
+      <SHARPNESS edges="2769.73" laplacian="53.42" sobel_x="148564" sobel_y="289740" />
+      <SATURATION red="129" green="133" blue="126" />
+    </TIME>
+    <TIME timestamp="00:00:08" detected_objects="0">
+      <OBJECT name="person" quality="0.69" x_center="0.52" y_center="0.41" width="0.15" height="0.47" />
+      <OBJECT name="person" quality="0.54" x_center="0.67" y_center="0.59" width="0.01" height="0.05" />
+      <OBJECT name="person" quality="0.48" x_center="0.28" y_center="0.61" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.37" x_center="0.73" y_center="0.59" width="0.01" height="0.02" />
+      <OBJECT name="person" quality="0.35" x_center="0.90" y_center="0.56" width="0.01" height="0.04" />
+      <SHARPNESS edges="2989.81" laplacian="59.91" sobel_x="146261" sobel_y="289510" />
+      <SATURATION red="129" green="133" blue="127" />
+    </TIME>
+    <TIME timestamp="00:00:09" detected_objects="0">
+      <OBJECT name="person" quality="0.79" x_center="0.48" y_center="0.49" width="0.15" height="0.49" />
+      <OBJECT name="person" quality="0.40" x_center="0.88" y_center="0.66" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.39" x_center="0.70" y_center="0.69" width="0.01" height="0.02" />
+      <OBJECT name="person" quality="0.38" x_center="0.65" y_center="0.69" width="0.01" height="0.05" />
+      <SHARPNESS edges="2353.35" laplacian="59.15" sobel_x="141504" sobel_y="269804" />
+      <SATURATION red="144" green="148" blue="142" />
+    </TIME>
+    <TIME timestamp="00:00:10" detected_objects="0">
+      <OBJECT name="person" quality="0.74" x_center="0.47" y_center="0.49" width="0.16" height="0.50" />
+      <OBJECT name="person" quality="0.53" x_center="0.87" y_center="0.69" width="0.01" height="0.04" />
+      <OBJECT name="person" quality="0.48" x_center="0.65" y_center="0.72" width="0.01" height="0.03" />
+      <SHARPNESS edges="2208.90" laplacian="52.77" sobel_x="143290" sobel_y="270219" />
+      <SATURATION red="147" green="151" blue="146" />
+    </TIME>
+  </VIDEO>
+  <VIDEO name="20210629_183308" width="1920" height="1080" fps="30" length="00:00:09" size="20MB">
+    <TIME timestamp="00:00:00" detected_objects="0">
+      <OBJECT name="person" quality="0.62" x_center="0.44" y_center="0.52" width="0.11" height="0.35" />
+      <SHARPNESS edges="204.34" laplacian="6.17" sobel_x="26603" sobel_y="39513" />
+      <SATURATION red="139" green="144" blue="138" />
+    </TIME>
+  </VIDEO>
+</DIRECTORY>
